@@ -1,0 +1,35 @@
+header{
+    background-color: blue;
+    height: 80px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+.container{
+    display: flex;
+    gap: 5px;
+}
+nav{
+    background-color: orange;
+    border-radius: 5px;
+    height: 500px;
+    width: 30%;
+    order: -1;
+}
+article{
+    background-color: orange;
+    border-radius: 5px;
+    height: 500px;
+    width: 120%;
+}
+aside{
+    background-color: orange;
+    border-radius: 5px;
+    height: 500px;
+    width: 30%;
+}
+footer{
+    background-color: blue;
+    height: 80px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
